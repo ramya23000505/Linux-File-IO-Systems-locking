@@ -37,9 +37,7 @@ write(out,block,nread);
 exit(0);}
 ```
 ## OUTPUT
-```
 -rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
-```
 ## 2.To Write a C program that illustrates files locking
 ```
 #include <fcntl.h>
@@ -81,8 +79,6 @@ return 0;
 }
 ```
 ## OUTPUT
-```
 -rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
-```
 # RESULT:
 The programs are executed successfully.
